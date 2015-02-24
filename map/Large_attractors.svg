@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Large_atractors.dxf">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview71"
+     showgrid="false"
+     inkscape:zoom="0.22425739"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g23" />
+  <desc
+     id="desc4">C:\Users\nek\Desktop\simulationProc2\Swarm_Eksarxeia2\map\Large_atractors.dxf - scale = 1.000000</desc>
+  <defs
+     id="defs6">
+    <marker
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         id="path9" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path12" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path14" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path16" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g21" />
+  <g
+     inkscape:label="MEDIUM-TARGETS-NIGHT"
+     inkscape:groupmode="layer"
+     id="g23">
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 876.45128272,-131.648820326 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path25" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 854.332175863,-178.274489963 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path27" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 771.860977064,-438.215791917 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path29" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 710.852894157,-450.417408498 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path31" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 642.727201578,-466.686230607 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path33" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 632.55918776,-404.661346318 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path35" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 626.458379469,-344.670064793 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path37" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 700.420884262,-391.876965903 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path39" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 742.779681118,-343.135119101 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path41" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 1079.70284658,172.622425717 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path43" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 781.271111323,438.929844365 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path45" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 791.439125141,512.139543853 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path47" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 859.56481772,516.20674938 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path49" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 529.123740714,353.970594997 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path51" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 480.317274389,379.390629541 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path53" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 369.295147597,461.254531554 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path55" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 997.163381733,-267.325098158 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path57" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 934.134631566,-225.743631034 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path59" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 716.292072224,-78.3554802754 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path61" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 798.153905493,-130.974521676 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path63" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 223.631707477,-94.031163298 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path65" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 194.713681935,-111.475330637 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path67" />
+    <path
+       inkscape:dxfpoint="1"
+       style="stroke:#ff0000;fill:#ff0000"
+       d="m 974.560457079,15.4358099003 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path69" />
+  </g>
+</svg>

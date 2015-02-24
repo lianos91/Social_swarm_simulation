@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<controlP5 colorLabel="ffffffff" colorValue="ffffffff" colorForeground="ff00698c" date="Wed Sep 11 14:35:52 EEST 2013" colorBackground="ff003652" colorActive="ff08a2cf" lock="false" filepath="controlP5.xml" urlpath="">
+<window height="800" name="main" background="00000000" width="1024" class="Swarm_Eksarxeia">
+<tab name="global" width="40" id="-1" visible="1.0" open="1.0" label="global" moveable="0.0"/>
+<tab name="default" width="45" id="-1" visible="1.0" open="1.0" label="default" moveable="0.0">
+<controller name="sep" id="1" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="15.0" label="sep" x="20.0" value="2.0" height="10" moveable="1.0"/>
+<controller name="coh" id="2" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="30.0" label="coh" x="20.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="ali" id="3" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="45.0" label="ali" x="20.0" value="1.0" height="10" moveable="1.0"/>
+<controller name="wan" id="4" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="60.0" label="wan" x="20.0" value="4.0" height="10" moveable="1.0"/>
+<controller name="Sep Dist" id="5" width="100" visible="1.0" min="0.0" type="slider" max="80.0" y="15.0" label="Sep Dist" x="150.0" value="30.0" height="10" moveable="1.0"/>
+<controller name="Vision" id="6" width="100" visible="1.0" min="0.0" type="slider" max="80.0" y="30.0" label="Vision" x="150.0" value="30.0" height="10" moveable="1.0"/>
+<controller name="MSP" id="7" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="45.0" label="MSP" x="150.0" value="1.0" height="10" moveable="1.0"/>
+<controller name="MTS" id="8" width="100" visible="1.0" min="0.0" type="slider" max="0.5" y="60.0" label="MTS" x="150.0" value="0.05" height="10" moveable="1.0"/>
+<controller name="Cluster Distance MAX" id="9" width="100" visible="1.0" min="0.0" type="slider" max="100.0" y="15.0" label="Cluster Distance MAX" x="300.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="Tail length" id="10" width="100" visible="1.0" min="0.0" type="slider" max="150.0" y="30.0" label="Tail length" x="300.0" value="80.0" height="10" moveable="1.0"/>
+<controller name="Tail resolution" id="11" width="100" visible="1.0" min="0.0" type="slider" max="25.0" y="45.0" label="Tail resolution" x="300.0" value="5.0" height="10" moveable="1.0"/>
+<controller name="obstacle power" id="12" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="15.0" label="obstacle power" x="550.0" value="5.0" height="10" moveable="1.0"/>
+<controller name="attractor power" id="13" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="30.0" label="attractor power" x="550.0" value="3.0" height="10" moveable="1.0"/>
+<controller name="ali S" id="14" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="130.0" label="ali S" x="20.0" value="1.2" height="10" moveable="1.0"/>
+<controller name="wander S" id="15" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="145.0" label="wander S" x="20.0" value="1.1" height="10" moveable="1.0"/>
+<controller name="fatt S" id="16" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="160.0" label="fatt S" x="20.0" value="2.0" height="10" moveable="1.0"/>
+<controller name="ali W" id="17" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="190.0" label="ali W" x="20.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="wander W" id="18" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="205.0" label="wander W" x="20.0" value="0.3" height="10" moveable="1.0"/>
+<controller name="fatt W" id="19" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="220.0" label="fatt W" x="20.0" value="2.0" height="10" moveable="1.0"/>
+<controller name="ali C" id="20" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="245.0" label="ali C" x="20.0" value="1.2" height="10" moveable="1.0"/>
+<controller name="wander C" id="21" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="260.0" label="wander C" x="20.0" value="0.7" height="10" moveable="1.0"/>
+<controller name="fatt C" id="22" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="275.0" label="fatt C" x="20.0" value="2.0" height="10" moveable="1.0"/>
+<controller name="ali Cops" id="23" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="300.0" label="ali Cops" x="20.0" value="3.0" height="10" moveable="1.0"/>
+<controller name="wander Cops" id="24" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="315.0" label="wander Cops" x="20.0" value="0.2" height="10" moveable="1.0"/>
+<controller name="fatt Cops" id="25" width="100" visible="1.0" min="0.0" type="slider" max="5.0" y="330.0" label="fatt Cops" x="20.0" value="4.0" height="10" moveable="1.0"/>
+<controller name="RESET" id="-1" width="30" visible="1.0" type="button" y="20.0" label="RESET" x="974.0" value="0.0" height="50" moveable="1.0"/>
+<controller name="RE_GEO" id="-1" width="30" visible="1.0" type="button" y="20.0" label="RE_GEO" x="924.0" value="0.0" height="50" moveable="1.0"/>
+<controller name="DEBUG" id="-1" width="30" visible="1.0" type="button" y="20.0" label="DEBUG" x="874.0" value="0.0" height="50" moveable="1.0"/>
+</tab>
+</window>
+</controlP5>
+
